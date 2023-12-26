@@ -1,0 +1,10 @@
+.background{
+    background-image: url("../images/background5.jpg");
+    background-position: center;
+    background-size:cover;    
+}
+
+
+.height_{
+    min-height: calc(100vh - 60px);
+}
